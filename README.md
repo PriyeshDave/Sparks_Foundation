@@ -1,4 +1,4 @@
-# Sparks_Foundation
+# Sparks_Foundation ![1538060109573](https://user-images.githubusercontent.com/81012989/159172914-66cca335-585e-493c-a73b-01de87d1f7d9.jpg)
 As part of my internship at sparks foundation I completed following tasks:
 
 ### 1.) Predictions using Supervised ML
