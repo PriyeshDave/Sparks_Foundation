@@ -1,5 +1,5 @@
 # Sparks_Foundation
-As part of my internship at sparks foundation I completed following tasks
+As part of my internship at sparks foundation I completed following tasks:
 
 ### 1.) Predictions using Supervised ML
 * Predicting the percentage of student based on number of study hours.
